@@ -19,9 +19,20 @@ header('location:login.php');
 </head>
 <body>
 <div class="container">
+
+	<br><h1 class="text-center text-primary">Moazz Webdeveloper Quiz</h1><br>
 	<h2 class="text-center text-success"> Welcome <?php echo $_SESSION['username']; ?> </h2> <br>
 
-</div>
+<div class="card">
+
+	<h3 class="text-center card-header"> Welcome <?php echo $_SESSION['username']; ?>, you have to select only one out of 4. Best of Luck :) </h3>
+
+</div><br>
+
+<?php
+
+?>
+
 <a href="logout.php" class="btn btn-primary "> LOGOUT </a>
 
 </div>
