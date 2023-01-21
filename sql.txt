@@ -1,0 +1,33 @@
+insert into answers values(1,'Home Tool Markup Language',1);
+insert into answers values(2,'Hyperlinks and Text Markup Language',1);
+insert into answers values(3,'Hyper Text Markup Language',1);
+insert into answers values(4,'none of the above',1);
+
+insert into answers values(5,'The first div element',2);
+
+
+
+insert into answers values(6,'All div elements',2);
+insert into answers values(7,The last div element',2);
+insert into answers values(8,'none of the above',2);
+
+insert into answers values(9 ,'The head section',3);
+insert into answers values(10,'The body section',3);
+insert into answers values(11,'Both the head section and the body section',3);
+insert into answers values ( 12, 'none of the above',3);
+
+Insert into answers values(13,'function myFunction()',4);
+insert into answers values(14,'function:myFunction()',4);
+Insert into answers values(15,'function = myFunction()',4);
+Insert into answers values(16,'none of these',4); 
+
+ 
+insert into answers values(17,'.container',5);
+
+insert into answers values(18,'.container-fixed',5);
+Insert into answers values( 19,'.container-fluid',5);
+
+insert into answers values(20,'.none of these',5);
+
+
+	
